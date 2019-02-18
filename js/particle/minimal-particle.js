@@ -35,7 +35,7 @@ particlesJS('particle-line',
         "nb_sides": 5
       },
       "image": {
-        "src": "img/github.svg",
+        "src": "portfolio/img/mountain.JPG",
         "width": 100,
         "height": 100
       }
