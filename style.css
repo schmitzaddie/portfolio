@@ -1695,10 +1695,10 @@ th {
 }
 .contact-information-wrapper h1,
 .contact-information-wrapper p {
-    color: #ffffff;
+    color: #333;
 }
 .info-icon {
-    border: 1px solid #ffffff;
+    border: 1px solid #333;
     font-size: 22px;
     height: 45px;
     line-height: 40px;
@@ -1707,7 +1707,7 @@ th {
     float: left;
 }
 .info-icon i {
-    color: #ffffff;
+    color: #333;
 }
 .single-info {
     overflow: hidden;
@@ -1734,7 +1734,7 @@ th {
     letter-spacing: 1px;
 }
 .info-details a {
-    color: #ffffff;
+    color: #333;
 }
 .info-block-text {
     margin-bottom: 50px;
