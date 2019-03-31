@@ -507,22 +507,22 @@ th {
     position: relative;
 }
 .caracraft-bw-header {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x722") no-repeat scroll center top / cover;
+    background: rgba(0, 0, 0, 0) no-repeat scroll center top / cover;
 }
 .caracraft-minimal-header {
-    background: rgba(0, 0, 0, 0) url("portfolio/img/mountain.JPG") no-repeat scroll center top / cover;
+    background: rgba(0, 0, 0, 0) no-repeat scroll center top / cover;
 }
 .caracraft-dark-header {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x722") no-repeat scroll center top / cover;
+    background: rgba(0, 0, 0, 0) no-repeat scroll center top / cover;
 }
 .caracraft-dentist-header {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x722") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) no-repeat scroll center center / cover;
 }
 .caracraft-yoga-header {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x722") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) no-repeat scroll center center / cover;
 }
 .caracraft-makeup-header {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x722") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) no-repeat scroll center center / cover;
 }
 .overlay:before {
     position: absolute;
@@ -570,7 +570,7 @@ th {
     background-color: #9e8d8b;
 }
 .slider-style-yoga .caracraft-single-slider {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x722") repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) repeat scroll center center / cover;
 }
 .single-slide-content h1 {
     font-size: 45px;
@@ -1089,27 +1089,27 @@ th {
     margin-top: 40px;
 }
 .layout-bw .portfolio .breadcrumb-area {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x722") center no-repeat;
+    background: rgba(0, 0, 0, 0) center no-repeat;
     background-size: cover;
 }
 .layout-minimal .portfolio .breadcrumb-area {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x722") center no-repeat;
+    background: rgba(0, 0, 0, 0) center no-repeat;
     background-size: cover;
 }
 .layout-dark .portfolio .breadcrumb-area {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x722") center no-repeat;
+    background: rgba(0, 0, 0, 0) center no-repeat;
     background-size: cover;
 }
 .layout-makeup .portfolio .breadcrumb-area {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x722") center no-repeat;
+    background: rgba(0, 0, 0, 0) center no-repeat;
     background-size: cover;
 }
 .layout-dental .portfolio .breadcrumb-area {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x722") center no-repeat;
+    background: rgba(0, 0, 0, 0) center no-repeat;
     background-size: cover;
 }
 .layout-yoga .portfolio .breadcrumb-area {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x722") center no-repeat;
+    background: rgba(0, 0, 0, 0) center no-repeat;
     background-size: cover;
 }
 .portfolio .overlay:before {
@@ -1670,27 +1670,27 @@ th {
 -------------------------------------------- */
 
 .layout-bw .contact-section {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x833") repeat scroll center / cover;
+    background: rgba(0, 0, 0, 0) repeat scroll center / cover;
     opacity: 1;
 }
 .layout-minimal .contact-section {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x833") repeat scroll center / cover;
+    background: rgba(0, 0, 0, 0) repeat scroll center / cover;
     opacity: 1;
 }
 .layout-dark .contact-section {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x833") repeat scroll center / cover;
+    background: rgba(0, 0, 0, 0) repeat scroll center / cover;
     opacity: 1;
 }
 .page-default .layout-makeup .contact-section {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x833") repeat scroll center / cover;
+    background: rgba(0, 0, 0, 0) repeat scroll center / cover;
     opacity: 1;
 }
 .page-default .layout-dental .contact-section {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x833") repeat scroll center / cover;
+    background: rgba(0, 0, 0, 0) repeat scroll center / cover;
     opacity: 1;
 }
 .page-default .layout-yoga .contact-section {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x833") repeat scroll center / cover;
+    background: rgba(0, 0, 0, 0) repeat scroll center / cover;
     opacity: 1;
 }
 .contact-information-wrapper h1,
@@ -1982,7 +1982,7 @@ p.caracraft-form-send-message.error {
 ---------------------------------*/
 
 .layout-light-blog .breadcrumb-area {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x527") repeat scroll center center;
+    background: rgba(0, 0, 0, 0) repeat scroll center center;
     background-size: cover;
 }
 .breadcrumb-area {
@@ -3293,7 +3293,7 @@ input[type="radio"] {
 ------------------------------------*/
 
 .layout-minimal .breadcrumb-area {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x527") repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) repeat scroll center center / cover;
 }
 .layout-minimal .flow-social a,
 .layout-minimal .footer-info > p i {
@@ -3926,7 +3926,7 @@ strong {
     background-attachment: fixed;
 }
 .layout-minimal .parallax {
-    background: rgba(0, 0, 0, 0) url("http://placehold.it/1854x833") center center no-repeat;
+    background: rgba(0, 0, 0, 0) center center no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }

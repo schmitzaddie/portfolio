@@ -8,11 +8,11 @@ $email = trim($_POST['email']);
 $message = trim($_POST['message']);
 $select_industry = trim($_POST['select_industry']);
 // $subject= trim($_POST['subject']);
-$subject = 'Message From caracraft';
+$subject = 'Message From Portfolio';
 if(!$subject) {
-    $subject = 'Message From caracraft';
+    $subject = 'Message From Portfolio';
 }
-$to = "example@gmail.com"; // Change with your email address
+$to = "schmitzaddie@gmail.com"; // Change with your email address
 //echo "{$to}";
 if( isset($name) && isset($email) ) {
 
